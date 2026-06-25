@@ -148,6 +148,3 @@ creator.addEventListener("create", (event) => {
 - Node.js 19+ (используются глобальные `EventTarget` и `CustomEvent`).
 - TypeScript компилируется со `strict: true` и `allowJs: false`.
 
-## Лицензия
-
-ISC
